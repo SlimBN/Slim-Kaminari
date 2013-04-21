@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "kaminari/version"
 
 Gem::Specification.new do |s|
-  s.name        = 'kaminari'
+  s.name        = 'Slim-Kaminari'
   s.version     = Kaminari::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Akira Matsuda']
